@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Velia\\Downloads\\Curso Examen II Jonathan Rom\u00E1n\\apiGestores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\velia\\downloads\\curso examen ii jonathan rom\u00E1n\\apigestores\\apigestores\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Velia\\Downloads\\Curso Examen II Jonathan Rom\u00E1n\\apiGestores\\apiGestores\\Startup.cs",
+              "RelativeDocumentMoniker": "apiGestores\\Startup.cs",
+              "ToolTip": "C:\\Users\\Velia\\Downloads\\Curso Examen II Jonathan Rom\u00E1n\\apiGestores\\apiGestores\\Startup.cs",
+              "RelativeToolTip": "apiGestores\\Startup.cs",
+              "ViewState": "AgIAAB8AAABAMzMzMzMpwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T20:56:54.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
